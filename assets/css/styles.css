@@ -1,15 +1,15 @@
 /* Variables */
 :root {
-  --color-background: #dddddd;
-  --color-header-bg: #1d1d1d;
-  --color-header-text: slategrey;
-  --color-menu-bg: #494949;
-  --color-menu-text: aliceblue;
-  --color-menu-link: #88bee7;
-  --color-product-bg: aliceblue;
-  --color-product-price-bg: rgb(0, 0, 0);
-  --color-product-price-text: white;
-  --color-footer-bg: beige;
+  --color-background: #FFFFFF;
+  --color-header-bg: #14213D;
+  --color-header-text: #FCA311;
+  --color-menu-bg: #14213D;
+  --color-menu-text: #FCA311;
+  --color-menu-link: #E5E5E5;
+  --color-product-bg: #E5E5E5;
+  --color-product-price-bg: #FCA311;
+  --color-product-price-text: #000000;
+  --color-footer-bg: #FCA311;
 }
 
 /* Estilos generales */
